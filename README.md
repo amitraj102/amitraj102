@@ -1,4 +1,4 @@
-## Hi there 👋
+ Hi👋 i'm Amit Raj
 
 <!--
 **amitraj102/amitraj102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
